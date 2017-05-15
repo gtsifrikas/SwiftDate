@@ -696,7 +696,7 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
-				VALID_ARCHS = "arm64 armv7 armv7s x86_64 i386 armv7k";
+				VALID_ARCHS = "armv7k armv7 armv7s x86_64 i386 arm64";
 				WATCHOS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Debug;
@@ -724,7 +724,7 @@
 				SWIFT_OBJC_INTERFACE_HEADER_NAME = "SwiftDate/$(SWIFT_MODULE_NAME).h";
 				SWIFT_VERSION = 3.0;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
-				VALID_ARCHS = "arm64 armv7 armv7s x86_64 i386 armv7k";
+				VALID_ARCHS = "armv7k armv7 armv7s x86_64 i386 arm64";
 				WATCHOS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Release;
